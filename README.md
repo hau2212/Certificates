@@ -45,11 +45,14 @@
 
 ---
 
-<h1> Cehv13 (In progress) </h1>
+<h1> CEH v13  </h1>
 <p> Certified Ethical Hacker. </p>
+<h3> Course : https://robusta.vn/vi/chuong-trinh-dao-tao/ec-council/certified-ethical-hacker-v13-ai-ceh-v13-ai </h3>
 <pre>
 
-> Status: Currently studying – expected certification in March 2026
+[CEHv13_NguyenThanhHau.pdf](https://github.com/user-attachments/files/23568589/CEHv13_NguyenThanhHau.pdf)
+
+> https://github.com/user-attachments/files/23568589/CEHv13_NguyenThanhHau.pdf
 
 </pre>
 
