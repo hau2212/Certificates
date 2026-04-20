@@ -59,14 +59,5 @@
 ---
 
 
-<h1> Transcript (In progress) </h1>
-<p> Academic Transcript: The official record of all completed courses, grades, and cumulative results throughout the academic program. </p>
-<pre>
-
-[Bang_Diem.pdf](https://github.com/user-attachments/files/23454998/Bang_Diem.pdf)
-
-> https://github.com/user-attachments/files/23454998/Bang_Diem.pdf
-
-</pre>
 
 ---
